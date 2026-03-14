@@ -212,15 +212,15 @@ nav{
 }
 
 .banner_card:nth-child(1){
-    background-image: url("banner-1.png");
+    background-image: url("image/banner-1.png");
 }
 
 .banner_card:nth-child(2){
-    background-image: url("banner-2.png");
+    background-image: url("image/banner-2.png");
 }
 
 .banner_card:nth-child(3){
-    background-image: url("banner-3.png");
+    background-image: url("image/banner-3.png");
 }
 
 .banner_card p{
@@ -353,7 +353,7 @@ nav{
 }
 
 .footer{
-    background-image: url(footer-bg.png);
+    background-image: url(image/footer-bg.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
